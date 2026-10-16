@@ -1,7 +1,7 @@
 # Taller 1: PostgreSQL local + CockroachDB
  
 Auditoría distribuida con Foreign Data Wrapper (FDW) y triggers.
-Taller práctico de Bases de Datos Distribuidas, Universidad EAFIT.
+Taller práctico de Bases de Datos Distribuidas.
  
 ## Integrantes
  
